@@ -23,7 +23,10 @@ Essential reading to take you from a developer, to an engineer.
 
 [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html) - a stripped down example of a PDF file
 
+
 ## Blog posts
+
+[Data structures for coding interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview) - Light  introduction to data structures
 
 [Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
 
