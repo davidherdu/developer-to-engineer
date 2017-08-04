@@ -1,6 +1,6 @@
 # From Developer to Engineer
 
-Essential reading to take you from a developer, to an engineer.
+Essential reading to take you from a developer, to an engineer 👷.
 
 ## Table of Contents
 * [Algorithms and data structures](#algorithms)
