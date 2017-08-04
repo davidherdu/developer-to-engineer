@@ -40,6 +40,8 @@ Essential reading to take you from a developer, to an engineer.
 
 [Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) - A more sensible design pattern to avoid overly complex microservice architecture
 
+[Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) - Detailed walkthrough that teaches the internals of git
+
 ### Floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
