@@ -17,21 +17,19 @@ Essential reading to take you from a developer, to an engineer 👷
     *[Software design](#software-design)
 * [Mathematics](#mathematics)
 
-## <a name="algorithms"></a> Algorithms and Data Structures
-[Data structures for coding interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview) - Light  introduction to data structures
+## Algorithms and Data Structures <a name="algorithms"></a>
+[Data structures for coding interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview) [30 mins] - Light  introduction to data structures
 
-## <a name="computer-architecture"></a> Computer architecture
-[What every programmer should know about memory](https://lwn.net/Articles/250967/) [Blog] - The fundamentals of computer memory
+##  Computer architecture <a name="computer-architecture"></a>
+[What every programmer should know about memory](https://lwn.net/Articles/250967/) [Paper] [80 mins] - The fundamentals of computer memory
 
-[Network protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) [Blog]
+## Computer graphics <a name="computer-graphics"></a>
 
-## <a name="computer-graphics"></a> Computer graphics
+[Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65) [9 mins]
 
-[Programmer's Guide to Homogeneous Coordinates](https://hackernoon.com/programmers-guide-to-homogeneous-coordinates-73cbfd2bcc65)
+## Computer architecture <a name="computer-architecture"></a>
 
-## Computer architecture <a name="computer-architecture></a>
-
-[A Study of Branch Prediction Strategies](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1981-A-Study-of-Branch-Prediction-Strategies.pdf) [Academic paper]
+[A Study of Branch Prediction Strategies](https://courses.cs.washington.edu/courses/cse590g/04sp/Smith-1981-A-Study-of-Branch-Prediction-Strategies.pdf) [Paper] [25 mins]
 
 ## <a name="distributed-systems"></a> Distributed Systems
 
@@ -39,56 +37,58 @@ Essential reading to take you from a developer, to an engineer 👷
 
 ## Networking <a name="networking"></a>
 
-[What happens when...](https://github.com/alex/what-happens-when) - A look into what happens when you type google.com into your browsers web address box and press enter
+[What happens when...](https://github.com/alex/what-happens-when) [Repo] [25 mins] - A look into what happens when you type google.com into your browsers web address box and press enter
+
+[Network protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) [Blog] [20 mins]
 
 ## <a name="programming-languages-and-compilers"></a> Programming languages and compilers
 
-[Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) [Blog] - How to write maintainable scripts
+[Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) [Blog] [15 mins] - How to write maintainable scripts
 
-[Six Programming Paradigms That Will Change How You Think About Coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/) - an overview of some obscure lanague paradigms
+[Six Programming Paradigms That Will Change How You Think About Coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/) [Blog] [13 mins] - an overview of some obscure language paradigms
 
-[The real difference between struct and class](http://www.fluentcpp.com/2017/06/13/the-real-difference-between-struct-class/) - When to use `struct` or `class` in C++
+[The real difference between struct and class](http://www.fluentcpp.com/2017/06/13/the-real-difference-between-struct-class/) [Blog] [5 mins] - When to use `struct` or `class` in C++
 
-[Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) [Blog] - Detailed walkthrough that teaches the internals of git
+[Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) [Blog] [35 mins] - Detailed walkthrough that teaches the internals of git
 
 ### Floating point <a name="floating-point"></a>
 
-[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) - An overview of floating point arithmetic
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) [Paper] [120 mins]- An overview of floating point arithmetic
 
-[Comparing Floating-Point Numbers Is Tricky](http://bitbashing.io/comparing-floats.html) - Some common floating point gotchas
+[Comparing Floating-Point Numbers Is Tricky](http://bitbashing.io/comparing-floats.html) [Blog] [17 mins] - Some common floating point gotchas
 
 ### Types <a name="types"></a>
 
-[A brief history of “type”](http://arcanesentiment.blogspot.co.uk/2015/01/a-brief-history-of-type.html) - The history of the use of the word type in programming
+[A brief history of “type”](http://arcanesentiment.blogspot.co.uk/2015/01/a-brief-history-of-type.html) [Blog] [10 mins] - The history of the use of the word type in programming
 
-[Where to type systems come from?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) - history of type theory and how it is used in type systems
+[Where to type systems come from?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/) [Blog] [6 mins] - history of type theory and how it is used in type systems
 
-[What are covariance and contravariance](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
+[What are covariance and contravariance](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance) [Blog] [3 mins]
 
 ## <a name="security"></a> Security
 
-[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) - Summary of HTTP headers to keep your site secure
+[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) [Blog] [13 mins] - Summary of HTTP headers to keep your site secure
 
 ## <a name="software-engineering"></a> Software engineering
 
 [The Log: What every software engineer should know about real-time data's unifying abstraction
-](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - An overview of logging
+](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) [Blog] [55 mins] - An overview of logging
 
-[A Programmer’s introduction to unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/) - An introduction to unicode
+[A Programmer’s introduction to unicode](http://reedbeta.com/blog/programmers-intro-to-unicode/) [Blog] [17 mins] - An introduction to unicode
 
-[Latency numbers every programmer should know](https://gist.github.com/jboner/2841832) - List of common actions and the time they take to complete
+[Latency numbers every programmer should know](https://gist.github.com/jboner/2841832) [Repo] [1 min] - List of common actions and the time they take to complete
 
-[What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) - Overview of required knowledge for the CS field
+[What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) [Blog] [20 mins] - Overview of required knowledge for the CS field
 
-[Minimal PDF](https://brendanzagaeski.appspot.com/0004.html) - a stripped down example of a PDF file
+[Minimal PDF](https://brendanzagaeski.appspot.com/0004.html) [Blog] [3 mins] - a stripped down example of a PDF file
 
 ### Software design <a name="software-design"></a>
 
-[Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) [Blog] - A more sensible design pattern to avoid overly complex microservice architecture
+[Monolith first](https://martinfowler.com/bliki/MonolithFirst.html) [Blog] [5 mins] - A more sensible design pattern to avoid overly complex microservice architecture
 
 
 ## <a name="mathematics"></a> Mathematics
 
-[Learning the language of mathematics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)[PDF]
+[Learning the language of mathematics](https://wac.colostate.edu/llad/v4n1/jamison.pdf) [PDF] [20 mins]
 
-[Arsdigita Discrete Mathematics Lectures](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PLrMT60OLrVSkmZJxHcR5OlTbaZxBeMPqm) - [Video] A playlist of 20 lectures covering almost everything you need to know about discrete maths
+[Arsdigita Discrete Mathematics Lectures](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PLrMT60OLrVSkmZJxHcR5OlTbaZxBeMPqm) [Video] [20 hours] - A playlist of 20 lectures covering almost everything you need to know about discrete maths
