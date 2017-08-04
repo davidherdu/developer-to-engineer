@@ -4,25 +4,21 @@ Essential reading to take you from a developer, to an engineer.
 
 ## Table of Contents
 * [Algorithms and data structures](#algorithms)
-* [Communication and security](#communication)]
 * [Computer architecture](#computer-architecture)
 * [Computer graphics](#computer-graphics)
 * [Distributed systems](#distributed-systems)
 * [Databases](#databases)
+* [Networking](#networking)
 * [Programming languages and compilers](#programming-languages-and-compilers)
     * [Floating point](#floating-point)
     * [Types](#types)
+* [Security](#security)
 * [Software engineering](#software-engineering)
     *[Software design](#software-design)
 * [Mathematics](#mathematics)
 
 ## <a name="algorithms"></a> Algorithms and Data Structures
 [Data structures for coding interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview) - Light  introduction to data structures
-
-## <a name="communication"></a> Communication and Security
-[What happens when...](https://github.com/alex/what-happens-when) - A look into what happens when you type google.com into your browsers web address box and press enter
-
-[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) - Summary of HTTP headers to keep your site secure
 
 ## <a name="computer-architecture"></a> Computer architecture
 [What every programmer should know about memory](https://lwn.net/Articles/250967/) [Blog] - The fundamentals of computer memory
@@ -41,8 +37,11 @@ Essential reading to take you from a developer, to an engineer.
 
 ## <a name="databases"></a> Databases
 
-## <a name="programming-languages-and-compilers"></a> Programming languages and compilers
+## Networking <a name="networking"></a>
 
+[What happens when...](https://github.com/alex/what-happens-when) - A look into what happens when you type google.com into your browsers web address box and press enter
+
+## <a name="programming-languages-and-compilers"></a> Programming languages and compilers
 
 [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) [Blog] - How to write maintainable scripts
 
@@ -66,8 +65,11 @@ Essential reading to take you from a developer, to an engineer.
 
 [What are covariance and contravariance](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
 
-## <a name="software-engineering"></a> Software engineering
+## <a name="security"></a> Security
 
+[Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html) - Summary of HTTP headers to keep your site secure
+
+## <a name="software-engineering"></a> Software engineering
 
 [The Log: What every software engineer should know about real-time data's unifying abstraction
 ](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - An overview of logging
