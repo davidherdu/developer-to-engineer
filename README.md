@@ -10,6 +10,7 @@ Essential reading to take you from a developer, to an engineer 👷
 * [Databases](#databases)
 * [Networking](#networking)
 * [Programming languages and compilers](#programming-languages-and-compilers)
+    * [Complilers](#compilers)
     * [Floating point](#floating-point)
     * [Types](#types)
 * [Security](#security)
@@ -50,6 +51,10 @@ Essential reading to take you from a developer, to an engineer 👷
 [The real difference between struct and class](http://www.fluentcpp.com/2017/06/13/the-real-difference-between-struct-class/) [Blog] [5 mins] - When to use `struct` or `class` in C++
 
 [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) [Blog] [35 mins] - Detailed walkthrough that teaches the internals of git
+
+### Compilers <a name="floating-point"></a>
+
+[An Intro to Compilers](https://nicoleorchard.com/blog/compilers) [Blog] [6 mins]
 
 ### Floating point <a name="floating-point"></a>
 
