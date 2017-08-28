@@ -34,6 +34,8 @@ Essential reading to take you from a developer, to an engineer 👷
 
 ## <a name="distributed-systems"></a> Distributed Systems
 
+[How complex systems fail](https://www.researchgate.net/publication/228797158_How_complex_systems_fail) [Paper] [8 mins]
+
 ## <a name="databases"></a> Databases
 
 ## Networking <a name="networking"></a>
