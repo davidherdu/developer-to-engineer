@@ -54,13 +54,15 @@ Essential reading to take you from a developer, to an engineer 👷
 
 [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) [Blog] [35 mins] - Detailed walkthrough that teaches the internals of git
 
-### Compilers <a name="floating-point"></a>
+### Compilers <a name="compilers"></a>
 
 [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) [Blog] [6 mins]
 
 ### Floating point <a name="floating-point"></a>
 
-[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) [Paper] [120 mins]- An overview of floating point arithmetic
+[What every programmer should know about floating point arithmetic](http://floating-point-gui.de/) [Website] - An introduction to floating point
+
+[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) [Paper] [120 mins]- An deep dive into floating point arithmetic
 
 [Comparing Floating-Point Numbers Is Tricky](http://bitbashing.io/comparing-floats.html) [Blog] [17 mins] - Some common floating point gotchas
 
