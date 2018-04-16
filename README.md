@@ -100,4 +100,6 @@ Essential reading to take you from a developer, to an engineer 👷
 
 [Learning the language of mathematics](https://wac.colostate.edu/llad/v4n1/jamison.pdf) [PDF] [20 mins]
 
+[Probability theory (for scientists and engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html) [Blog] [40 mins]
+
 [Arsdigita Discrete Mathematics Lectures](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PLrMT60OLrVSkmZJxHcR5OlTbaZxBeMPqm) [Video] [20 hours] - A playlist of 20 lectures covering almost everything you need to know about discrete maths
