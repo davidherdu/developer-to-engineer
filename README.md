@@ -89,6 +89,8 @@ Essential reading to take you from a developer, to an engineer 👷
 
 [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) [Blog] [20 mins] - Overview of required knowledge for the CS field
 
+[Tearing aparat printf](http://www.maizure.org/projects/printf/index.html) [Blog] [25 mins] - A deep dive into the C printf function
+
 [Minimal PDF](https://brendanzagaeski.appspot.com/0004.html) [Blog] [3 mins] - a stripped down example of a PDF file
 
 ### Software design <a name="software-design"></a>
