@@ -60,6 +60,8 @@ Essential reading to take you from a developer, to an engineer 👷
 
 ### Floating point <a name="floating-point"></a>
 
+[Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/) [Blog] [5 minutes] - A novel way to understand floating point as a window and offset.
+
 [What every programmer should know about floating point arithmetic](http://floating-point-gui.de/) [Website] - An introduction to floating point
 
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html) [Paper] [120 mins]- An deep dive into floating point arithmetic
