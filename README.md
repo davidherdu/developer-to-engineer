@@ -58,6 +58,8 @@ Essential reading to take you from a developer, to an engineer 👷
 
 [An Intro to Compilers](https://nicoleorchard.com/blog/compilers) [Blog] [6 mins]
 
+[A basic just-in-time compiler](https://nullprogram.com/blog/2015/03/19/) [Blog] [9 mins]
+
 ### Floating point <a name="floating-point"></a>
 
 [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/) [Blog] [5 minutes] - A novel way to understand floating point as a window and offset.
