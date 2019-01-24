@@ -81,6 +81,10 @@ A detailed guide to socket programming in C
 
 An illustrated guide that shows each step involved in establising a TLS 1.3 connection, sending data, and closing the connection.
 
+🖥  [Everything you need to know about networking on AWS](https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws)
+
+An overview of AWS neworking concepts like VPCs, availability zones, and security groups.
+
 ## <a name="programming-languages-and-compilers"></a> Programming languages and compilers
 
 🖥 [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter) <small>15mins</small>
